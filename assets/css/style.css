@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  max-width: 100%;
+}
+.logo-header{
+  width: 86px;
+  margin-top: 19px;
+  margin-bottom: 18px;
+  margin-left: 20px;
+}
+.icon{
+  padding-top: 0.31rem;
+  padding-bottom: 0.31rem;
+  padding-left: 0.84rem;
+  padding-right: 0.84rem;
+}
+.title{
+  font-weight: 200;
+  margin-top: 14px;
+  margin-left: 16px;
+  margin-bottom: 11px;
+}
+.name {
+  font-weight: 200;
+  color: #707070;
+  margin-left: 16.17px;
+  margin-bottom: 2px;
+}
+.adress {
+  font-weight: 200;
+  font-size: 13px;
+  color: #707070;
+  padding-left: 16.17px;
+}
+.map{
+  width: 6.13px;
+  height: 9.2px;
+  margin-right: 4.04px;
+}
+hr{
+  margin: 1rem;
+}
+
+.weight200{
+  font-weight: 200;
+  color: #707070;
+}
+.weight400{
+  font-weight: 500;
+}
+.align{
+  text-align: center;
+}
+.logo-footer{
+  width: 82px;
+}
+#cupon img{
+  width: 100%;
+  height: 100%;
+}
